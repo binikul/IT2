@@ -21,7 +21,8 @@ TODO Avtal tidspunkt for presentasjon innen 26. april
 
 TODO Lim inn lenke til github-repository som inneholder avanserte løsninger med programmering  
 TODO Ha en presentasjon der du forklarer en _avansert_ kode
-TODO Lim inn lenke til besvarelse av oppgave 2.1 - 2.4 og 2.12 - 2.14
+DONE Lim inn lenke til besvarelse av oppgave 2.1 - 2.4 og 2.12 - 2.14
+https://github.com/binikul/IT2/blob/master/databehandling-og-algoritmer/oppgaver-algoritme-og-pseudo-flyt.md
 
 ### Gjenbrukbar kode
 
@@ -93,7 +94,7 @@ TODO Lim inn lenke til github-repository (side på github) med relevant kode
 
 - Oppgave om etikk og konsekvenser ved bruk av IT kommer i uke 12.
 
-TODO Lever oppgave på Teams
+DONE Lever oppgave på Teams
 
 ### Standarder for lagring, utveksling og sikring av data
 
